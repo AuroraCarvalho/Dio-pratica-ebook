@@ -90,4 +90,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Adauta carvalho](https://github.com/AuroraCarvalho)
+⌨️ com 💜 por [Adauta Carvalho](https://github.com/AuroraCarvalho)
