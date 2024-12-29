@@ -1,5 +1,6 @@
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/assets/em grupo.png">
 </p>
 
 
@@ -12,7 +13,7 @@
 
 <p align="center">
 <img 
-    src=""
+    src="assets/manicraft ia.jpg"
     width="400"  
 />
 </p>
@@ -25,7 +26,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/AuroraCarvalho/Dio-pratica-ebook/blob/main/output/Ebook%20Dio%20-%20Copia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -71,7 +72,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src=".assets/adauta.jpeg"
+      src="assets/adauta.jpeg"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
