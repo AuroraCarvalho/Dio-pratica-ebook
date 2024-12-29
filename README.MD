@@ -21,7 +21,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso que realizei na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -31,7 +31,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [MidJourney](https://about.meta.com/br/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -41,20 +41,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título para um ebook sobre o tema de "SQL para iniciantes", com uma abordagem que use exemplos de Minecraft para ensinar SQL. O título deve ser interessante e curto. Me liste 5 variações de títulos.                                                        |
+| conteúdo | Faça um texto para o ebook com foco em SQL, utilizando exemplos baseados em Minecraft. Explique de maneira simples os conceitos fundamentais do SQL e como usá-los para manipular dados dentro do jogo, como criar tabelas, inserir dados e realizar consultas. Inclua exemplos práticos e contextos reais de como SQL pode ser aplicado dentro de um jogo de Minecraft. |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | An ebook teaching SQL concepts, structured with chapters covering SELECT, JOIN, and normalization, illustrated with real-world database examples using Minecraft data, and emphasizing the practical application of queries to build and manage efficient databases for in-game inventories, crafting systems, and world data management.|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Meta
 
 ## 📚 Materiais
 
@@ -63,7 +63,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, Figma , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
